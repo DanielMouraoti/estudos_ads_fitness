@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+venv_treino/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# Arquivos de saída temporários
+*.pdf
+*.txt
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
